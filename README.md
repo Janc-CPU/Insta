@@ -23,4 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+The new account post is at the very end for only a brief moment, as I was limited by the gif length. But it is there none the less
+
 ![InstaPart1](https://user-images.githubusercontent.com/89956735/136869255-5078b7b2-25b0-4d17-9b37-cea27ce85077.gif)
