@@ -50,4 +50,5 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-![InstaPart2](https://user-images.githubusercontent.com/89956735/137837888-66e420b9-5ab2-4c7c-be1a-3acf18a6ff4f.gif)
+![InstaPart2](https://user-images.githubusercontent.com/89956735/138178970-47e1cfa5-410b-4108-8f50-09366a8c308a.gif)
+
